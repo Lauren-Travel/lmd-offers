@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11",
+ "generated_at": "2026-10-13",
  "offers": [
   {
    "id": "hd-10823",
@@ -170,23 +170,6 @@
    "url": null,
    "book_method": "request",
    "updated_at": "2026-10-01 11:38:42"
-  },
-  {
-   "id": "hd-10782",
-   "source": "inteletravel_hotdeals",
-   "partner": "Seabourn",
-   "title": "Onboard Credit Offer",
-   "summary": "Seabourn’s top offers of this week AND up to $2,000 shipboard credit per suite 8-day Croatia, Montenegro, Italy & Greece from £5,198pp or 8-day Spanish & French Coastal Charm from £4,698pp.",
-   "description": "Seabourn’s top offers of this week AND up to $2,000 shipboard credit per suite 8-day Croatia, Montenegro, Italy & Greece from £5,198pp or 8-day Spanish & French Coastal Charm from £4,698pp.",
-   "image": "https://backofficephp-prod-media-storage.s3.us-east-2.amazonaws.com/media/hotdeals/10782.jpg",
-   "price_from": 5198,
-   "currency": "GBP",
-   "category": null,
-   "destination_region": null,
-   "expires": "2026-10-12",
-   "url": null,
-   "book_method": "request",
-   "updated_at": "2026-10-01 11:36:06"
   },
   {
    "id": "hd-10781",
